@@ -7,8 +7,8 @@ body {
 }
 
 .jumbotron {
-  /*background-image:url(../image/coffee.jpeg);*/
-  background-image:url(../image1/image.jpeg);
+  background-image:url(../coffee.jpeg);
+  /*background-image:url(../image1/image.jpeg);*/
   padding: 20%;
     background-repeat: no-repeat;
     background-size: cover;
